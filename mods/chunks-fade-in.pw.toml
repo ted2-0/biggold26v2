@@ -1,6 +1,6 @@
 name = "Chunks fade in"
 filename = "chunksfadein-neoforge-3.0.26-1.21.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/XmAhOrYE/chunksfadein-neoforge-3.0.26-1.21.jar"
