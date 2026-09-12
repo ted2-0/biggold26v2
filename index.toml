@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "ce8b4c6596fac67fd0d8ba6193a4a868699d9447c7eefb5a830ec23d211a04e6"
+hash = "3a90f022d0ac776053cfb3a74de2f5df7b1a1388c1fb223ea7396a052843989f"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "afd20e972cb137b1cdb2fd2dbb9e4ace4809e0beb8f6a7f0d172bc1dc152e0a1"
+hash = "5abde9df715dc7866a44145022750772224a09963ad34c8ace2549fa73f0fbc8"
 metafile = true
 
 [[files]]
