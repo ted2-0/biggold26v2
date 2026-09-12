@@ -1,0 +1,13 @@
+name = "Dangerous Mobs"
+filename = "dangerous_mobs-0.2.3-neoforge-1.21.1fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gcKRydrI/versions/ZVRmvTVz/dangerous_mobs-0.2.3-neoforge-1.21.1fix.jar"
+hash-format = "sha512"
+hash = "b0c7ef6e0db0c73689d6c8b1184124f2a5f096b8f5a46f5f8dc242a4ab5e2953e110dd36f8015df0e1779b214c717cc0bfc4336a0cbe87c913caab40f74a232c"
+
+[update]
+[update.modrinth]
+mod-id = "gcKRydrI"
+version = "ZVRmvTVz"

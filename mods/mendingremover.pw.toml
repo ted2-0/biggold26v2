@@ -1,0 +1,13 @@
+name = "Mending Remover"
+filename = "mendingremover-1.21.x-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y0sPJyjX/versions/GguDKTVJ/mendingremover-1.21.x-neoforge.jar"
+hash-format = "sha512"
+hash = "34d11cd08696e67211a56eedb8f2038ccfa6ace19145390c1255ef39a739ba34e5fb1084fe16788c234440d71fead546c9c23df777dbe1db29394cf04ca75c67"
+
+[update]
+[update.modrinth]
+mod-id = "y0sPJyjX"
+version = "GguDKTVJ"

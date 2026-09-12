@@ -1,0 +1,13 @@
+name = "Elytra Optimizations"
+filename = "elytraoptimizationsneoforgeport-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FKE8UrH5/versions/YHw0CWgW/elytraoptimizationsneoforgeport-1.0.0.jar"
+hash-format = "sha512"
+hash = "23dfbbc6101eabe6345ec5f035d7d3ef7949dc10449258dc806852499432ea5e22e2744341ef820e8489ffc5b36b924e9620647022131c57fbbebd6e11c364f9"
+
+[update]
+[update.modrinth]
+mod-id = "FKE8UrH5"
+version = "YHw0CWgW"

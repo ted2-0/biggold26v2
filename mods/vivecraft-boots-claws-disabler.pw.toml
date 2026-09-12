@@ -1,0 +1,13 @@
+name = "Vivecraft Boots & Claws Disabler"
+filename = "vivecraft-boots-claws-disabler-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTHgXIOR/versions/jmxStrJP/vivecraft-boots-claws-disabler-1.0.2.jar"
+hash-format = "sha512"
+hash = "85050cb88068348fea23a259e1819b52baf11d5634336f0a109efb93a8569cf32d0acedd51fe1d830b8e9d46965d8b3d04d4d12d75004be6cdd99891821e18b3"
+
+[update]
+[update.modrinth]
+mod-id = "NTHgXIOR"
+version = "jmxStrJP"

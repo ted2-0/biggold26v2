@@ -1,0 +1,13 @@
+name = "End Only Elytra Flight"
+filename = "endonlyelytraflight-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Av0VUK5j/versions/eBnjikDv/endonlyelytraflight-1.1.0.jar"
+hash-format = "sha512"
+hash = "bcc0773fd8b40c7d6859674ad441f78504bed1a4ca2774560a45b233e94c04271499352d55eadb0b23972884431b2b0586bc590156958205d56671f5fc23cc79"
+
+[update]
+[update.modrinth]
+mod-id = "Av0VUK5j"
+version = "eBnjikDv"

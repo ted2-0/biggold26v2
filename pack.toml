@@ -1,0 +1,13 @@
+name = "BigGold26v2"
+author = "ted2_0"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d9c0963cfbd99739760e7ddba64a00fcd890b6ac498b89de2c263912a851815a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

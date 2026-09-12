@@ -1,0 +1,13 @@
+name = "Easy Mob Spawn Control - spawn rate, mob cap, disable bad mobs"
+filename = "easy_mob_spawn_control-1.5.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTXV6gwq/versions/KsQqSPDg/easy_mob_spawn_control-1.5.10.jar"
+hash-format = "sha512"
+hash = "4de855b396f8d9d99bf9f7b1a87fcdb1170a86695b446f1cc86362b1636620a8ee24292fc7fff822be49d6e7becd474300f1b5110eed60e354ab71527ab61637"
+
+[update]
+[update.modrinth]
+mod-id = "pTXV6gwq"
+version = "KsQqSPDg"

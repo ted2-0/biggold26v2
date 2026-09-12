@@ -1,0 +1,13 @@
+name = "Sodium Leaf Culling Unofficial"
+filename = "slc_unofficial-neoforge-3.1.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xtym7fz7/versions/7mGFwqgi/slc_unofficial-neoforge-3.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2e257a79e42238a21c25815d20868282dda2a77f068e611ec93c31024ac255264aaf178de784ce733e70e0ba82842a2f831d8d2e218317a3998e2942383e793b"
+
+[update]
+[update.modrinth]
+mod-id = "xtym7fz7"
+version = "7mGFwqgi"

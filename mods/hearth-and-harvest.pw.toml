@@ -1,0 +1,13 @@
+name = "Hearth and Harvest"
+filename = "hearthandharvest-1.21.1-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8EEEXOzj/versions/7nTyt27O/hearthandharvest-1.21.1-1.3.4.jar"
+hash-format = "sha512"
+hash = "1e2ca4d1d0d93dcd372aaeb5bf180ca615fdecf9e5f6d5367aafb59893490c9c2c13dca1f71b04deb5ec6e7a524fdd801ff7440997162833c6d2ff7d0d30fa40"
+
+[update]
+[update.modrinth]
+mod-id = "8EEEXOzj"
+version = "7nTyt27O"
