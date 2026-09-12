@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+hash = "08b8bc384c82b76620f5dd454cffd57bab06a9e63780368762cae54ad2439950"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog.pw.toml"
-hash = "3a90f022d0ac776053cfb3a74de2f5df7b1a1388c1fb223ea7396a052843989f"
+hash = "0f0ac99f64fed5c03c542a83793423196ecf21686ef357a3387e376fc43f4aa1"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "5abde9df715dc7866a44145022750772224a09963ad34c8ace2549fa73f0fbc8"
+hash = "3a10db03d11392d77455b653bed9099ae4fe498991105d3d15b77cdf939a7804"
 metafile = true
 
 [[files]]

@@ -11,3 +11,8 @@ hash = "930acf4610db47432ae305ab12ed317c00961e96bbb6c8c41c2f528f5b16a798405297b4
 [update.modrinth]
 mod-id = "WuGVWUF2"
 version = "c4ytB02Y"
+
+[option]
+optional = true
+default = false
+description = "Disable if using Distant Horizons or Atmospherics (recommended)\n- Requires MRU"
