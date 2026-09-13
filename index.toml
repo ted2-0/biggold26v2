@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolibbetterfps.pw.toml"
-hash = "23a8afbf1fb0fd6019a376e7b5d03d6650aad9cc68bb87205c1920898748d301"
+hash = "2c8d3cac0f35806032f50daf8d586d1ce5d1e8d1dd484b7f6d83786ae33d9f96"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "883f1a47d29190c37872f05593c1869b56bed451a045fdb554ef084625a3aea1"
+hash = "acb7a6e1468a33c289a40465f94017a8b539dcc22a22f540058b6cb604ffa6ec"
 metafile = true
 
 [[files]]

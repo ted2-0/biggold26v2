@@ -14,5 +14,5 @@ version = "5M4T2FfG"
 
 [option]
 optional = true
-default = false
-description = "Disable for performance (or if using Mac)"
+default = true
+description = "Disable if you're having issues"
