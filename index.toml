@@ -536,6 +536,10 @@ hash = "6b235aa1d0c43ab4fa7eacca3eb3c62530fa6ae1b44bc56aecc25c636a8ffc5b"
 metafile = true
 
 [[files]]
+file = "mods/hapi-neoforge-1.21.1-1.1.0.jar"
+hash = "051784008ef655922811f25657553942a736ca9f3a9ed59c9c31b5fe7426cf4a"
+
+[[files]]
 file = "mods/hearth-and-harvest.pw.toml"
 hash = "05802a63a4739a574b06cb4d1ba5c879d17a741360a61febcf695dedf3882efc"
 metafile = true
