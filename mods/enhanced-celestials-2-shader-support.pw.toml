@@ -11,3 +11,8 @@ hash = "1624d1472e98ca2d115217bb0a76ff0de61b82f1f0dc8f1bdd3036f7c5eda70a54b7e7ed
 [update.modrinth]
 mod-id = "6cEnKtmZ"
 version = "4uOjogNm"
+
+[option]
+optional = true
+default = true
+description = "Disable if you're having issues (or not using Iris)"

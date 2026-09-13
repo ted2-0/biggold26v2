@@ -11,3 +11,8 @@ hash = "918212420dbbbd5206873dae7bc9b22c7e1f05f8472df742153f9413105fc957f270d932
 [update.modrinth]
 mod-id = "ft2cYBpB"
 version = "e3AdhSXi"
+
+[option]
+optional = true
+default = true
+description = "Disable if you're having issues"

@@ -11,3 +11,8 @@ hash = "5c631cb5e65ad0230b0927e3c0cbe0ae476f50513136a9616e1518064c5af55b70db2740
 [update.modrinth]
 mod-id = "vNZgQmjg"
 version = "h2tTmurt"
+
+[option]
+optional = true
+default = true
+description = "Disable if you're having issues"

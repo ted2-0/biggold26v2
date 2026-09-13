@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/atmospherics.pw.toml"
-hash = "8cbbcc790cdba5be4717c1cfa330babe9f50f3397b828c0b5f082aaea3c8e935"
+hash = "5020045d19755bf0e262171c30055ad585d76ef66d369a5d39c2aa8ad3a75c0a"
 metafile = true
 
 [[files]]
@@ -126,6 +126,11 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "8eeaf5023a8c5978f68ecd71d09ac46516167111ab2f46ab2c3909b8f9283f92"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "3a6a82de82d8767521b6da37d8a2bed2513e58c45e347a23e0d53803839f0a62"
+hash = "d98762ee8b7500968e0278b2c35001e1d6e2e71b6238404eb6f7e2b9e3ad9381"
 metafile = true
 
 [[files]]
@@ -382,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-shader-support.pw.toml"
-hash = "118cc51b91c098a97d8a95de27c43d95556515a3bde0dce7a2a3eb1eff336a64"
+hash = "5031e2ce252a3e9c136d046a875be29e8241a91b27859ba494c5bb6b0647ed0b"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+hash = "6c49391e5349cd7a52ec1a744e1e84516fdfb6908ba7ea34f1b8e681bb98e959"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "0789c9f6c10b5cddaa37eeb9388b068b168cd8c0ee1d21f0c3b78d160fc48fdd"
+hash = "739e0c6be10d42c52afa68d2172eb2515d3ec356e66c315310b2ef7bcc99da95"
 metafile = true
 
 [[files]]
@@ -582,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "f77e5ef780191c3e96c014375ef269808fec2f2cd120ae2f25b3a558e2f366a1"
+hash = "761bac9783cc85cc591333ebddb5c8acbab374363f2ec497cca5a9c389efe928"
 metafile = true
 
 [[files]]
@@ -592,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+hash = "865bb750fdbb084044d75b6e0ea10c2766a5573c8573ba9fec9ac6d8662192cb"
 metafile = true
 
 [[files]]
@@ -872,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
+hash = "246941b4fc356584f89995ef6852593797e1360ec52c6bd4c09da1802887e895"
 metafile = true
 
 [[files]]
@@ -1057,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodiumleafculling-unofficial.pw.toml"
-hash = "4f05ceb6c5a630bf00fddedbb1e0973ff67a542197456dc976bd909dec454f24"
+hash = "ef3099496328ae8ab3ac359dee22e3e13f1cec3e2c0200a19bf6a7707e74da1f"
 metafile = true
 
 [[files]]
@@ -1077,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+hash = "b1eee807f9959522a0e40b13081964fdf4e8a597c7e8053d384def46f3767978"
 metafile = true
 
 [[files]]
@@ -1242,12 +1247,12 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft-compat.pw.toml"
-hash = "4670cdef72a5b5805925e600a2be56bba331bdb8eb5c0e620d4d0c80bb2f9aab"
+hash = "63d5ef9d5a3fb1ddc1f8950f1129c7c9aa02b0d908bacd142f7ab612b0fab8f5"
 metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "ea0413c80dea2f9214472f16e8dda2d7178e20255199256440f18962927e14ff"
+hash = "b71b3e662891d59ddfd9fd9c7168b3429e22915f778ecffd42d6554d23d2080f"
 metafile = true
 
 [[files]]

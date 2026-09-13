@@ -11,3 +11,8 @@ hash = "a99355c57bc8d4e04dc42b2caa5981c0c8bb0408e5dff6789149894ebeb0f0b23c95325b
 [update.modrinth]
 mod-id = "nrikgvxm"
 version = "k32OBTlL"
+
+[option]
+optional = true
+default = true
+description = "Disable if you're having issues"
