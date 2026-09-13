@@ -11,3 +11,8 @@ hash = "bd37ee80cf269795663816b7b804d9a70e7d987c7c051222821144c5426cc8f8c2117d20
 [update.modrinth]
 mod-id = "c3onkd5k"
 version = "nLg9cJcl"
+
+[option]
+optional = true
+default = false
+description = "Disable for performance (or if using Mac)"
