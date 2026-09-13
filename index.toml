@@ -555,11 +555,6 @@ hash = "018e97e8393dd17294a49693063a8dd4f42b2930708c4cc745ee9751f2f279c3"
 metafile = true
 
 [[files]]
-file = "mods/hybrid-api.pw.toml"
-hash = "7617dc92469786fc1bacd9a313915ad6a568c7d62fadd23401eb977628b52f5e"
-metafile = true
-
-[[files]]
 file = "mods/hybrid-aquatic-starcatcher-compatibility.pw.toml"
 hash = "d3b081f6c41283a6a6f2d466614612b837f01a882e67e6d091f76d0355b6d52b"
 metafile = true
