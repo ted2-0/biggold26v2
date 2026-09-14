@@ -1,6 +1,162 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/DistantHorizons.toml"
+hash = "5e41046fbdb88d2598eb16525055b031c772d2acebfa96d367d78c13144fc30f"
+
+[[files]]
+file = "config/defaultoptions/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "config/defaultoptions/chloride-client.toml"
+hash = "f40533256c04d254c090188266f97969b1c65d7727f79159e71cea7673bb7c36"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/awesome.jpg"
+hash = "a70b779bc733d02ad80dd9475cc53aaf901dbeded328ae4c2429c2fb43d9508f"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/banana.jpg"
+hash = "868c72826da68b2a94e11e050c0ca487a1a0c44d29d52a895985782e193454b8"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/banana.mp4"
+hash = "0e28e138e5e7ad57ca06adb86013de136204594816b54a04c61a1fc34725dec6"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/biggold.png"
+hash = "eb277a7ac96827d198a9d8d3cf41726b751f64f1dda1005173869d458302b1bd"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/flim.wav"
+hash = "3a070862f9afd844742e3744456d8d88faf72cbdae6eab4fced5c09cdd324fc0"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/assets/letsgoooo.png"
+hash = "10ce97930d334ab1729210683da889f4e210136c03bbecba134352950e0d485f"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/audio_element_controller_metas.json"
+hash = "329265bb805f535eb1c0f7839890b53fbc42c84af56842d3e70897aa94eb85e8"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/customizablemenus.txt"
+hash = "3cbbe904afea31d5f5eef5368dacd2fa5ab38171132cc5e5b05777f6ab1ac994"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/customization/biggold26/pause_screen_layout.txt"
+hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/customization/biggold26/title_screen_layout.txt"
+hash = "b27ca269e502951aeb987cab194a4a702f23ce61d6b443a69421365cd1d55ce3"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/customization/universal_banana.txt"
+hash = "9f54bebdddd5df0997b0590a2453e1dce5a050a68a86173999a981b9a1bbb7f9"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "2076a84f7f361374112fc2235a41b1aa980e37724613cf947a69f52bdbc176bd"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/listener_instances.txt"
+hash = "bae3c4ee17f3264cbf5610d0f8d8a83744bcf527f44677d9a87bcb7c083accf0"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/options.txt"
+hash = "7fc922ff93aee8474ea67ec54184ed4fc6c465074a543381513c452cfa389ab3"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/defaultoptions/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/defaultoptions/hoofprint.toml"
+hash = "3fb24e1eda97d5ef3a5c1948cf40bea377b341555c42d1616c16f1c820f36b8e"
+
+[[files]]
+file = "config/defaultoptions/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/defaultoptions/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/defaultoptions/jade/jade.json"
+hash = "e39d4a533e38ebd38eec59000b4cb353f5004320ac0fecac4acb27dfbb7beb8c"
+
+[[files]]
+file = "config/defaultoptions/jade/plugins.json"
+hash = "feb8a3f8940970cb8c153023ef9d2737bb85a88e0c7973acea69dec75ed95d75"
+
+[[files]]
+file = "config/defaultoptions/jade/sort-order.json"
+hash = "0a1ce85253498408d5ef3498a1dbb4dca6b9743f79cac5063abf82f4ab539566"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a128679c3ced12c72228f424dbce9417334e0dcd16424d5c6628a7aad08d8ab9"
+
+[[files]]
+file = "config/defaultoptions/pickupnotifier/pickupnotifier-client.toml"
+hash = "8d17ba41dfbe642f2367532d170ffa88f9dafb0601f4e7f492bcd3075442f4fa"
+
+[[files]]
+file = "config/defaultoptions/wover/client.json"
+hash = "aa470706090f3abb3f3277fb386111768263dfb8441f59fda27ded29c00e9c05"
+
+[[files]]
+file = "config/defaultoptions/zombieawareness/ClientConfig.toml"
+hash = "65e585523831b0f28598b37ab39bde4023c768bb867dfe7d38d644d54318713f"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -37,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "b529852bbbba47dc953d1d1a077c8349f2d71ba695ff652d9f2a377b37aa1f3c"
+hash = "6f6088990830ec3fc31fca7ca6fb378749c4efe65dc717c49ad2ef9fa79a780d"
 metafile = true
 
 [[files]]
@@ -297,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "08b8bc384c82b76620f5dd454cffd57bab06a9e63780368762cae54ad2439950"
+hash = "8bbbb65066acabb0bce54bd8071afe03b03349d2f8bde7d3d42039d5a5e0f9e8"
 metafile = true
 
 [[files]]

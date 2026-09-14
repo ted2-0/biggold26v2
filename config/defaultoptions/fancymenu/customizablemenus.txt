@@ -1,0 +1,182 @@
+type = customizablemenus
+
+org.vivecraft.client.gui.settings.GuiQuickCommandEditor {
+}
+
+net.caffeinemc.mods.sodium.client.gui.VideoSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+traben.entity_texture_features.config.screens.ETFConfigScreenMain {
+}
+
+traben.tconfig.gui.TConfigScreenList {
+}
+
+traben.entity_texture_features.config.screens.ETFConfigScreenWarnings {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditGameRulesScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.ExperimentsScreen {
+}
+
+org.betterx.wover.generator.impl.client.WorldSetupScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+org.vivecraft.client.gui.settings.GuiMainVRSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiHUDSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiRenderingSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiMenuWorldSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiKeyboardSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiKeyboardThemeEditor {
+}
+
+org.vivecraft.client.gui.settings.GuiActiveKeyboardLayoutSelector {
+}
+
+org.vivecraft.client.gui.framework.screens.GuiSelectionListScreen {
+}
+
+org.vivecraft.client.gui.settings.GuiRenderOpticsSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiPostEffectsSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiShaderCompatSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiAllSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiStandingSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiTeleportSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiFreeMoveSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiVRControls {
+}
+
+org.vivecraft.client.gui.settings.GuiPlayerModelSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiRadialConfiguration {
+}
+
+org.vivecraft.client.gui.settings.GuiRadialSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiRoomscaleSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiWeaponCollisionSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiClimbingSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiBackpackSwitchingSettings {
+}
+
+org.vivecraft.client.gui.settings.GuiOtherHUDSettings {
+}
+
+net.minecraft.client.gui.screens.options.SkinCustomizationScreen {
+}
+
+com.teamabnormals.blueprint.client.screen.SlabfishHatScreen {
+}
+
+net.minecraft.client.gui.screens.options.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.WinScreen {
+}
+
+net.minecraft.client.gui.screens.options.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.options.MouseSettingsScreen {
+}
+
+net.minecraft.client.gui.screens.options.controls.KeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.options.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.options.OnlineOptionsScreen {
+}
+
+com.seibel.distanthorizons.common.wrappers.gui.classicConfig.DhConfigScreen_neoforge {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.GenericMessageScreen {
+}
+
+net.minecraft.client.gui.screens.ProgressScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+

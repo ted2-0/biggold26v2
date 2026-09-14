@@ -14,5 +14,5 @@ version = "ZpKb4kZp"
 
 [option]
 optional = true
-default = false
+default = true
 description = "Disable for performance (or if using Mac)"
