@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/biome-replacer.pw.toml"
-hash = "e625e28ab69ac6c281861b3020f44a31ba3ec16f66916f9911989c929420bc1a"
+hash = "e45c0aa65dfdc49043252334759947aaea5a59384b7028f852ce31b321903901"
 metafile = true
 
 [[files]]
@@ -153,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "9575467d028ab1fdc03c957b8932e3d6d45693a151061cc956ea827226d22bde"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
@@ -1091,12 +1086,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "9d29ba7efbee707dbb481c750f13e45ceccdc2aae4cd02e5cf9afc523337b211"
+hash = "ae597cce25d3c1e91be1372d6cad00caaeaf745dde58478a90ccaf13006a94b0"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b1eee807f9959522a0e40b13081964fdf4e8a597c7e8053d384def46f3767978"
+hash = "cd8aa8c76b148d7cf0e5c7fc623999909def866dedd51662a057b231783ae1cd"
 metafile = true
 
 [[files]]
@@ -1298,3 +1293,7 @@ metafile = true
 file = "mods/zombie-variants.pw.toml"
 hash = "fb36426d089b511f9cd36ca6b0138b7988a6b8b96c0d04abc40d31f2f3379a17"
 metafile = true
+
+[[files]]
+file = "resourcepacks/BigGold Splash Text.zip"
+hash = "6125cee83d280088e305dd9813d9ad9530c714b17946a50138c6b74910891d18"

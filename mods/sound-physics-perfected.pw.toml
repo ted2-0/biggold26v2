@@ -11,3 +11,8 @@ hash = "e0817814578e803f5b461ca0f889e8d2ddcd5b889774047187427d072dc72395081af440
 [update.modrinth]
 mod-id = "KS6Hbu9Z"
 version = "ueESmGKc"
+
+[option]
+optional = true
+default = true
+description = "Try 'Sound Physics Remastered' if this doesn't work"
