@@ -1295,5 +1295,13 @@ hash = "fb36426d089b511f9cd36ca6b0138b7988a6b8b96c0d04abc40d31f2f3379a17"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Big-Gold-Splash-Text.zip"
-hash = "6125cee83d280088e305dd9813d9ad9530c714b17946a50138c6b74910891d18"
+file = "resourcepacks/Big-Gold-Splash-Text/assets/minecraft/texts/splashes.txt"
+hash = "c6883fb8885648bd6fbb9ef78751130621b5da82227f19f1d92106a57590474c"
+
+[[files]]
+file = "resourcepacks/Big-Gold-Splash-Text/pack.mcmeta"
+hash = "8e5270cfcea6517d77d2db00c72a5a2c5c8b5d7a2b32d7404dbd91a822e244f8"
+
+[[files]]
+file = "resourcepacks/Big-Gold-Splash-Text/pack.png"
+hash = "a52b02cc3d902ea654f7470e2354dfb6bfdd13071edc49af5adc463bfc409fe2"
