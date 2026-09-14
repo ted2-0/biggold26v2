@@ -118,7 +118,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 6
+		numberOfThreads = 3
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -256,7 +256,7 @@ _version = 4
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "OVERLAY"
+		showGenerationProgress = "DISABLED"
 		#
 		# The max radius in chunks around the central point where world generation is allowed. 
 		# If this value is set to 0, generation bounds are disabled and the render distance will be used. 
@@ -538,7 +538,7 @@ _version = 4
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = false
+				enableCaveCulling = true
 				#
 				# At what Y value should cave culling start? 
 				# Lower this value if you get walls for areas with 0 light.
@@ -772,7 +772,7 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: PIXEL_ART
-				verticalQuality = "HIGH"
+				verticalQuality = "MEDIUM"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -804,7 +804,7 @@ _version = 4
 				# 
 				# Higher settings will increase the distance between drops 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "HIGH"
+				horizontalQuality = "MEDIUM"
 				#
 				# How should LOD transparency be handled. 
 				# 

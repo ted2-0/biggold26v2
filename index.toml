@@ -6,7 +6,7 @@ hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
 file = "config/defaultoptions/extra/config/DistantHorizons.toml"
-hash = "5e41046fbdb88d2598eb16525055b031c772d2acebfa96d367d78c13144fc30f"
+hash = "c58cdaecbcbc07f176be2c1d65b662b8368a09feeef3a3d36b3171be9a36a236"
 
 [[files]]
 file = "config/defaultoptions/extra/config/chloride-client.toml"
@@ -54,11 +54,11 @@ hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/customization/biggold26/title_screen_layout.txt"
-hash = "b27ca269e502951aeb987cab194a4a702f23ce61d6b443a69421365cd1d55ce3"
+hash = "08766fb7217890b310dbd11be2afe349c97b221bcf512da54b7a500e90b79dcc"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/customization/universal_banana.txt"
-hash = "9f54bebdddd5df0997b0590a2453e1dce5a050a68a86173999a981b9a1bbb7f9"
+hash = "c5626739fcc3ef896e676ca1fe7eab1938604b2d3905bc810638cf1c8f2d4b02"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
