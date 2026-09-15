@@ -489,11 +489,6 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
-file = "mods/easy-mob-spawn-control.pw.toml"
-hash = "badbb934ddabf32efb1bb2f4a42db5a9bda57ffd3e16687073d08781be3e3b84"
-metafile = true
-
-[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "9fe802c6e911ccd7117578a9fd92b0d1e1eb569c56535fadfbeedf8fe8045137"
 metafile = true
@@ -765,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/improved-pillager-outpost.pw.toml"
 hash = "b26d5949e773596d56bb310234f8682f8a9dafd377b2b5fb1bbdebb372e2a8fb"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "8311cf201aa8d3c5d0c0291194f3c76d825591122b7ccf4f2fea08f6b39af526"
 metafile = true
 
 [[files]]
