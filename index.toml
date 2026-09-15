@@ -1118,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/reducedloot.pw.toml"
-hash = "d852ebd97442f2615273ebe7af0a9cd1bc4ba8e5de5441b50d593c43605641f6"
+hash = "71c6d4d3f169e6856426fee246350ab1d3abbdde82052f86986f652128ad3aa3"
 metafile = true
 
 [[files]]

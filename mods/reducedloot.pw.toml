@@ -1,6 +1,6 @@
 name = "Reduced Loot"
 filename = "reducedloot-neoforge-1.21.x.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/42IQWulr/versions/3iF7CBw7/reducedloot-neoforge-1.21.x.jar"
