@@ -153,6 +153,10 @@ file = "config/defaultoptions/extra/config/jade/sort-order.json"
 hash = "0a1ce85253498408d5ef3498a1dbb4dca6b9743f79cac5063abf82f4ab539566"
 
 [[files]]
+file = "config/defaultoptions/extra/config/netherexp-startup.toml"
+hash = "fe9a95277ae8f4211c33b32a3db15e6962286402d1e11a3ecdb8cccb8b67578c"
+
+[[files]]
 file = "config/defaultoptions/extra/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "8d17ba41dfbe642f2367532d170ffa88f9dafb0601f4e7f492bcd3075442f4fa"
 
