@@ -1,0 +1,13 @@
+name = "Party Creepers"
+filename = "PartyCreepers-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiQCYsjo/versions/27FVftjr/PartyCreepers-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "c1579516088c4b44282d00d8dcc350aff9553ce4cdc2fffb47dba06991ab93e1dd6d5e748415240c6a9cad68f85717eebef6455a53ce130507f6db21459c1546"
+
+[update]
+[update.modrinth]
+mod-id = "YiQCYsjo"
+version = "27FVftjr"

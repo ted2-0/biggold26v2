@@ -1057,6 +1057,11 @@ hash = "246941b4fc356584f89995ef6852593797e1360ec52c6bd4c09da1802887e895"
 metafile = true
 
 [[files]]
+file = "mods/party-creepers.pw.toml"
+hash = "a11cc90537a8c78612083fa1ecf70fae24a374229385142620e547f78352adf4"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
