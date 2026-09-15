@@ -13,6 +13,18 @@ file = "config/defaultoptions/extra/config/chloride-client.toml"
 hash = "f40533256c04d254c090188266f97969b1c65d7727f79159e71cea7673bb7c36"
 
 [[files]]
+file = "config/defaultoptions/extra/config/enhancedcelestials2core/mixins.properties"
+hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
+
+[[files]]
+file = "config/defaultoptions/extra/config/enhancedcelestials2core/translations-cache/en_us.json"
+hash = "f92424ec4b6913c16069c224654169b10b93fefaac5a5a3e89f37bc64cdf1089"
+
+[[files]]
+file = "config/defaultoptions/extra/config/enhancedcelestials2core/translations.json"
+hash = "0181e8e9702984275b05076d3252213aa6fc58cb09bfeffc1cec2694cef6a896"
+
+[[files]]
 file = "config/defaultoptions/extra/config/fancymenu/assets/awesome.jpg"
 hash = "a70b779bc733d02ad80dd9475cc53aaf901dbeded328ae4c2429c2fb43d9508f"
 
@@ -58,7 +70,7 @@ hash = "08766fb7217890b310dbd11be2afe349c97b221bcf512da54b7a500e90b79dcc"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/customization/universal_banana.txt"
-hash = "c5626739fcc3ef896e676ca1fe7eab1938604b2d3905bc810638cf1c8f2d4b02"
+hash = "de5df8a968416cbf540507b3a1e65e7734381f52a77faaa4758cd01cb77bd4bd"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -74,7 +86,7 @@ hash = "bae3c4ee17f3264cbf5610d0f8d8a83744bcf527f44677d9a87bcb7c083accf0"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/options.txt"
-hash = "7fc922ff93aee8474ea67ec54184ed4fc6c465074a543381513c452cfa389ab3"
+hash = "3c0cb08fec6758c2ed18e602d4158bd35366ca122ee3df6dfd26c74215f394be"
 
 [[files]]
 file = "config/defaultoptions/extra/config/fancymenu/ui_themes/cherry_blossom.json"
