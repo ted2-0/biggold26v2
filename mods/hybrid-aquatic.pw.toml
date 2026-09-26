@@ -1,13 +1,13 @@
 name = "Hybrid Aquatic"
-filename = "hybrid_aquatic-neoforge-1.21.1-1.7.2.jar"
+filename = "hybrid_aquatic-neoforge-1.21.1-1.7.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cd4410999348b3c97667be2d7027112833338f87"
+hash = "139323e28615642db8cd55d712f40f01bfb5edb2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8890759
+file-id = 8950964
 project-id = 834427

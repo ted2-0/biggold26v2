@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "36ba6ade58f4c13c623743ee4b18e92a56355d3014e6c05fb6d7183d13fb9d83"
+hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
 metafile = true
 
 [[files]]
@@ -464,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "46baeab3d6271074e97d6358cd505ab16b20193cb5ee0d9bcf9c09915e9e67a2"
+hash = "aa1f85970e044a048cd2a58575c9a1fc524f45bb46c7bce5e1b34e37e616d4ed"
 metafile = true
 
 [[files]]
@@ -559,12 +559,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "6aba9d20ceaf2f4f3368734cdfc37924b6fdf19df3f6631d68402490289cfd54"
+hash = "0ae06c97bf858f3941fd7369e34a71967e7a5c26c26b1cb7371a5be0f1842ecd"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8165e06190ce216684d55814e15cc049daab6fc2f834887ea3ed1c26d3e20a9e"
+hash = "1252ca7f1825f3d754fb3de21e4349033f61135d6f2cfaf8b0e07242079a52e8"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
+hash = "741ad359354fce814f9e1cbff6fb0b6eea09f4bb905efef94a32be56b1f64680"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -703,10 +703,6 @@ hash = "6b235aa1d0c43ab4fa7eacca3eb3c62530fa6ae1b44bc56aecc25c636a8ffc5b"
 metafile = true
 
 [[files]]
-file = "mods/hapi-neoforge-1.21.1-1.1.0.jar"
-hash = "051784008ef655922811f25657553942a736ca9f3a9ed59c9c31b5fe7426cf4a"
-
-[[files]]
 file = "mods/hearth-and-harvest.pw.toml"
 hash = "05802a63a4739a574b06cb4d1ba5c879d17a741360a61febcf695dedf3882efc"
 metafile = true
@@ -722,13 +718,18 @@ hash = "018e97e8393dd17294a49693063a8dd4f42b2930708c4cc745ee9751f2f279c3"
 metafile = true
 
 [[files]]
+file = "mods/hybrid-api.pw.toml"
+hash = "6e317343ea37f9842b317f0440ba5f7ef71a24cfb6c7c3f243f63d00fd5782c3"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic-starcatcher-compatibility.pw.toml"
-hash = "6571d4ab6566b5bd9aeb7457d01b2a10c1bce1fa85639431b3f379e6d6ed5b23"
+hash = "1aafebb8917ab7a0d7e6b1874769f1b4e195d8665ca9043f932eb6637e66cebe"
 metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "8335ed1797764f1f26f43ec2320daa848467b9ba93334fdbc0841bc73a72db3e"
+hash = "ce91904f5561fd658d87259d684c09e8b58ca47f436f3091597a67cc5ddc6a67"
 metafile = true
 
 [[files]]
@@ -798,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/knight-lib.pw.toml"
-hash = "f4b99579d4f63369e9ace88847698e55bab6c1abdceec35977507a35397c8dfc"
+hash = "e7039f1c13809e6ac55b0443f9c0bc05dad66824e47e3270ff7e8d5cca3a1bf6"
 metafile = true
 
 [[files]]
@@ -813,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "1506a3d749a45bc760b3ad57ef1fbb959f0c166b6d1d4955114fd66db7a4855d"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -823,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "2b29ef612838ee9337783898645195ee49ea5bbace7962b54a47fb2f97d3d524"
+hash = "05ed9cd04509dd53ef2a32a294753c50a15d5c7f1df1abc49da7231b58e62720"
 metafile = true
 
 [[files]]
@@ -873,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f976c1685acfb6d19496454f2d8d9b3128778e7a7a940a458992d145dc3a8fba"
+hash = "a5021505140d5b7ffa4ff7184e74566a21b4e72a7ae256afeaf1e99e929333d1"
 metafile = true
 
 [[files]]
@@ -888,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "86390b0fac4ae3a1f24f0723cab5dcd3b798cb0c9be579575ba93b0cc6a90212"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
@@ -948,12 +949,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7bc20264f0874457c08927af84def007cd5ed2caeee9d736cab1f92d8ea8d6ec"
+hash = "bdb50204369d9b6d8b5dbd7659795e443be6508448bf937e4f866c037842d09f"
 metafile = true
 
 [[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
-hash = "a9e205a10f37e99beed3961f9b6ad54f9a05fefc25196529ea0a2c9feb73f719"
+hash = "80a370694a343829e914776d027040d387c54331907d5cbb93f0561925649d1b"
 metafile = true
 
 [[files]]
@@ -1098,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/questlog.pw.toml"
-hash = "547d272989a5581de5bd3d20fb03feecca9eea32da188689acc3e17aafc5f1e3"
+hash = "49c56a3e633b63bd404f75cd0d4441d96852f7eb62331d9e6dd508545192f1c7"
 metafile = true
 
 [[files]]
@@ -1268,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "441de11c47e1b1d7e92565391ed9bdf771102cca0cd81e37dba45aef1974755b"
+hash = "7eebc5df8461a48701344924f3ce5e3ec754ce1183d0d1189c88dbe93ca5cd7a"
 metafile = true
 
 [[files]]
@@ -1288,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "85ab527468ec1c804e1883c500ac01997b605855eed6018b70c4f6d2aac0f076"
+hash = "71fc3dfb3430f73e944f5e7c15cb9b99eac34e5367f2e41ca83deaea03d24433"
 metafile = true
 
 [[files]]
@@ -1378,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
-hash = "9fb4155f3aaa4647fbbae65266f7be4e94556b13d8c69989bd07705590a8b510"
+hash = "39c78a6e2d83a279e525152e186683bcd9067e672e9107ecc04e60ac0809517e"
 metafile = true
 
 [[files]]
@@ -1393,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerapi.pw.toml"
-hash = "939d5ba622ccaa6c1fba8a3c5007d3876f851540b0c9b23922e26ba89fe37ebb"
+hash = "f7c6430c5dc9b3e7813e954950e0e361181e2eb47a4162fa112efe9a32199c0f"
 metafile = true
 
 [[files]]

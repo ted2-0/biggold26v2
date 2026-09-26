@@ -1,13 +1,13 @@
 name = "Knight Lib"
-filename = "knightlib-neoforge-1.21.1-2.0.2.jar"
+filename = "knightlib-neoforge-1.21.1-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/sEvOlu1i/knightlib-neoforge-1.21.1-2.0.2.jar"
+url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/j16QUfgH/knightlib-neoforge-1.21.1-2.0.3.jar"
 hash-format = "sha512"
-hash = "bf9edd8182f1c90b5bbed8e57797aa32d7b6047cc97cf94efe9a7400c5241e93512cf4509d2cd679120d8e4682f48ff53c8b33374b7ce567080bf6a55ccf629d"
+hash = "337030fc773a55961270b5da6eca07f89704bfac0fd1632bf4b5bd3628df618e9bd27fd22fd27267c1f39de7be634629536d957a77135dd7c95f88288d980934"
 
 [update]
 [update.modrinth]
 mod-id = "hAnl9nbm"
-version = "sEvOlu1i"
+version = "j16QUfgH"
