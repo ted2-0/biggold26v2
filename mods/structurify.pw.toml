@@ -1,6 +1,6 @@
 name = "Structurify - Structure Control"
 filename = "structurify-neoforge-2.0.38+mc1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/RFSWQtGK/structurify-neoforge-2.0.38%2Bmc1.21.1.jar"
