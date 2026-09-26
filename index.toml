@@ -628,11 +628,6 @@ hash = "4ae505d63fe067cdf0bbc364283eb0e5d90ebdb409cf1633326d10cfdeea28a8"
 metafile = true
 
 [[files]]
-file = "mods/fog.pw.toml"
-hash = "0f0ac99f64fed5c03c542a83793423196ecf21686ef357a3387e376fc43f4aa1"
-metafile = true
-
-[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "e7f346c1e529d77362817ff33c152ff4486dc3a5eab728e73402d06d0d40ce9b"
 metafile = true
@@ -965,11 +960,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/mru.pw.toml"
-hash = "3a10db03d11392d77455b653bed9099ae4fe498991105d3d15b77cdf939a7804"
 metafile = true
 
 [[files]]
