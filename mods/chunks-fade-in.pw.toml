@@ -11,3 +11,8 @@ hash = "4ffa71b146ef8959530d1612c9b370e101b43b72a46c81a838765ea62b318d8ae1098848
 [update.modrinth]
 mod-id = "JaNmzvA8"
 version = "XmAhOrYE"
+
+[option]
+optional = true
+description = "Broken with DH for now"
+default = false
