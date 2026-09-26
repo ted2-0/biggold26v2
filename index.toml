@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials-2-shader-support.pw.toml"
-hash = "5031e2ce252a3e9c136d046a875be29e8241a91b27859ba494c5bb6b0647ed0b"
+hash = "d64dcfb0f69dd7b71c3ec98044094a2034190f2bda0b3334347dd3c5097c8d49"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "739e0c6be10d42c52afa68d2172eb2515d3ec356e66c315310b2ef7bcc99da95"
+hash = "2f510e4a240a1c0f8d43ef1c7e78e04454a487fcdd30044bc3caeea162075050"
 metafile = true
 
 [[files]]
@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+hash = "ef15c0a0a5afcf7b11376da33b893a87b8522bef65bdb36fa17d5d6eea810e9f"
 metafile = true
 
 [[files]]

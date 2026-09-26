@@ -14,5 +14,5 @@ version = "4uOjogNm"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Disable if you're having issues (or not using Iris)"
