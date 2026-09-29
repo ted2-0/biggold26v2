@@ -69,16 +69,8 @@ file = "config/defaultoptions/options.txt"
 hash = "a128679c3ced12c72228f424dbce9417334e0dcd16424d5c6628a7aad08d8ab9"
 
 [[files]]
-file = "config/fancymenu/assets/awesome.jpg"
-hash = "a70b779bc733d02ad80dd9475cc53aaf901dbeded328ae4c2429c2fb43d9508f"
-
-[[files]]
 file = "config/fancymenu/assets/banana.jpg"
 hash = "868c72826da68b2a94e11e050c0ca487a1a0c44d29d52a895985782e193454b8"
-
-[[files]]
-file = "config/fancymenu/assets/banana.mp4"
-hash = "0e28e138e5e7ad57ca06adb86013de136204594816b54a04c61a1fc34725dec6"
 
 [[files]]
 file = "config/fancymenu/assets/biggold.png"
@@ -87,10 +79,6 @@ hash = "eb277a7ac96827d198a9d8d3cf41726b751f64f1dda1005173869d458302b1bd"
 [[files]]
 file = "config/fancymenu/assets/flim.wav"
 hash = "3a070862f9afd844742e3744456d8d88faf72cbdae6eab4fced5c09cdd324fc0"
-
-[[files]]
-file = "config/fancymenu/assets/letsgoooo.png"
-hash = "10ce97930d334ab1729210683da889f4e210136c03bbecba134352950e0d485f"
 
 [[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
@@ -110,11 +98,11 @@ hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
 
 [[files]]
 file = "config/fancymenu/customization/biggold26/title_screen_layout.txt"
-hash = "08766fb7217890b310dbd11be2afe349c97b221bcf512da54b7a500e90b79dcc"
+hash = "1115cf3de2bd5d68e5af7c8b9e6530216ad421738c0eb2c67f4aaa542202bf43"
 
 [[files]]
 file = "config/fancymenu/customization/universal_banana.txt"
-hash = "de5df8a968416cbf540507b3a1e65e7734381f52a77faaa4758cd01cb77bd4bd"
+hash = "958d7ef81c5410d911d583c5e32717d364a9d5f2e82d4d60138a1dc5e258d383"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
