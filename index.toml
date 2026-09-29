@@ -5,10 +5,6 @@ file = "config/defaultoptions/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
-file = "config/defaultoptions/extra/config/DistantHorizons.toml"
-hash = "c58cdaecbcbc07f176be2c1d65b662b8368a09feeef3a3d36b3171be9a36a236"
-
-[[files]]
 file = "config/defaultoptions/extra/config/chloride-client.toml"
 hash = "f40533256c04d254c090188266f97969b1c65d7727f79159e71cea7673bb7c36"
 
@@ -38,15 +34,15 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/defaultoptions/extra/config/jade/jade.json"
-hash = "e39d4a533e38ebd38eec59000b4cb353f5004320ac0fecac4acb27dfbb7beb8c"
+hash = "08b76a740a948a78f56cbd9daf8af9cf0f421c51e8a1c0e3a971cd0e04bcbeae"
 
 [[files]]
 file = "config/defaultoptions/extra/config/jade/plugins.json"
-hash = "feb8a3f8940970cb8c153023ef9d2737bb85a88e0c7973acea69dec75ed95d75"
+hash = "93d043da3804451d92053e684adf4302554d76a94de434832ae5b9a568b4bf73"
 
 [[files]]
 file = "config/defaultoptions/extra/config/jade/sort-order.json"
-hash = "0a1ce85253498408d5ef3498a1dbb4dca6b9743f79cac5063abf82f4ab539566"
+hash = "bcf39bc78db6188b1c74b7cf835f7119062c1027f249182cd5e832a4aea7c7c4"
 
 [[files]]
 file = "config/defaultoptions/extra/config/netherexp-startup.toml"
@@ -55,6 +51,10 @@ hash = "fe9a95277ae8f4211c33b32a3db15e6962286402d1e11a3ecdb8cccb8b67578c"
 [[files]]
 file = "config/defaultoptions/extra/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "8d17ba41dfbe642f2367532d170ffa88f9dafb0601f4e7f492bcd3075442f4fa"
+
+[[files]]
+file = "config/defaultoptions/extra/config/terralith.json"
+hash = "7dced0f1a0a6eb20c4fc5a5d25d6bd1742f8cb3eeae32474793a0935622a2a1f"
 
 [[files]]
 file = "config/defaultoptions/extra/config/wover/client.json"
@@ -66,7 +66,7 @@ hash = "65e585523831b0f28598b37ab39bde4023c768bb867dfe7d38d644d54318713f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "a128679c3ced12c72228f424dbce9417334e0dcd16424d5c6628a7aad08d8ab9"
+hash = "889afad15aa35ee5b0debb7dadb71e76ed235b10400c9b64eb5d397b5e96566b"
 
 [[files]]
 file = "config/fancymenu/assets/banana.jpg"
@@ -98,11 +98,11 @@ hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
 
 [[files]]
 file = "config/fancymenu/customization/biggold26/title_screen_layout.txt"
-hash = "1115cf3de2bd5d68e5af7c8b9e6530216ad421738c0eb2c67f4aaa542202bf43"
+hash = "d021816b33d640b816da6b8f1e4460fe5f9f2c018a438d551d5290a27d45c8f5"
 
 [[files]]
 file = "config/fancymenu/customization/universal_banana.txt"
-hash = "958d7ef81c5410d911d583c5e32717d364a9d5f2e82d4d60138a1dc5e258d383"
+hash = "728915117ee04e99af42899d0a3773a949d0aea563070c2172f9794a7fce5770"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "95ad690c28da310450f8b32878a9ca1a0d997a072b6da3f22153b21688d9069a"
+hash = "ee9b77a6a70722fcb5b35846fd9acadf5e649c5341102c3244eb0a8847d1f0ca"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5337e351b205e4191bd16d5ca17463f763f5161cbbdc14c066dcbf15e7e10448"
+hash = "4d089beef8ec605bb3b87abfd8a66bed7eb4d64a0e4129d49a2706717fb94cfa"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "30e5c2704a18346dc49edf8f8d32436700a7be603455cde90f30c0c3897ad95d"
+hash = "88afe523b3bc1fed6bd53b6608f0450e9891c8fe25e786a9893243064f8c7e7f"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
-hash = "80a370694a343829e914776d027040d387c54331907d5cbb93f0561925649d1b"
+hash = "ab8e6544cb68a5d2371e49f2f9910f50a7f073a7808dd656fb35a88c3ece0655"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "6ea358a18fbb72631cca70b6c906cc3541bbfaadef02408ae426a07a9d09c856"
+hash = "6ea52b0dccdc5110b48ac9d5528fc2accb1c970b1fbcae34120e16001ddf115f"
 metafile = true
 
 [[files]]
@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
+hash = "6b1ee632cee2d75301016eaac99a3446ad605f11fbfda631effac0eb7da59f6c"
 metafile = true
 
 [[files]]
@@ -1207,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bcdd9de050d7efbc77ffc3ce177905bf099301e3fd48993606402fc70537bc18"
+hash = "d35f6e0d09bb9d89ccd5c4ed18f52a24e450ef8c7220c4a10a169e7c1d12b23f"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
 metafile = true
 
 [[files]]
@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerapi.pw.toml"
-hash = "f7c6430c5dc9b3e7813e954950e0e361181e2eb47a4162fa112efe9a32199c0f"
+hash = "368b67f7b4f865a92d945b0420f414502d162451a7a1e3d58fc9237295ec4a7f"
 metafile = true
 
 [[files]]

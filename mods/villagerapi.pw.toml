@@ -1,13 +1,13 @@
 name = "Villager API"
-filename = "Villager-API-1.21.1-neoforge-1.26.9.5.jar"
+filename = "Villager-API-1.21.1-neoforge-1.26.9.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9Tp2Becg/versions/Apq9XhZd/Villager-API-1.21.1-neoforge-1.26.9.5.jar"
+url = "https://cdn.modrinth.com/data/9Tp2Becg/versions/zvWYgUeN/Villager-API-1.21.1-neoforge-1.26.9.6.jar"
 hash-format = "sha512"
-hash = "e590304a830da06e99171ed4d58175ab6d873f74efdfde14f80653f8b21ef66ec92c8b8f2fe382afe2875d3c35903f0cd3ae69e3249f4beacafd27c10f5a5b4e"
+hash = "ed19ef40a45190c86284ca2632c9351f8f950f397819e60f37742ace3d151a7b43b00ec8541a6f9ac01f43cbce30d09ff60dfbea3d5a815ca68de82e24cc4502"
 
 [update]
 [update.modrinth]
 mod-id = "9Tp2Becg"
-version = "Apq9XhZd"
+version = "zvWYgUeN"

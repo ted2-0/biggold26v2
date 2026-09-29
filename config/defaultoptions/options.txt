@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","enderzoology:dynamically_copied_textures","netherexp:jne_retextures","mod/atmospherics:resourcepacks/atmospherics_pack","mod/snowyleaves:resourcepacks/default","moonlight:merged_pack","file/Big-Gold-Splash-Text"]
+resourcePacks:["vanilla","fabric","mod_resources","netherexp:jne_retextures","mod/atmospherics:resourcepacks/atmospherics_pack","mod/snowyleaves:resourcepacks/default","moonlight:merged_pack","file/Big-Gold-Splash-Text"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

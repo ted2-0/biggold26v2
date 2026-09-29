@@ -67,6 +67,9 @@
     "inventory_config": true,
     "inventory_connector": true
   },
+  "nightlights": {
+    "block_info": true
+  },
   "betterend": {
     "plant_growth": true
   },
