@@ -14,5 +14,5 @@ version = "LjqlbRAO"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Disable if you're having issues"

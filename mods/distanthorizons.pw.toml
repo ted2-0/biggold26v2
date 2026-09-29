@@ -15,4 +15,4 @@ version = "Ez3cx7Yd"
 [option]
 optional = true
 description = "Disable for performance (or if using Mac)"
-default = true
+default = false

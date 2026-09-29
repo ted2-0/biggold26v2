@@ -14,5 +14,5 @@ version = "O9q6ZstV"
 
 [option]
 optional = true
-default = true
-description = "Disable if you're having issues"
+default = false
+description = "Disable if you're having issues (requires ViveCraft)"

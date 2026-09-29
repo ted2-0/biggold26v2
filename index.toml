@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/atmospherics.pw.toml"
-hash = "5020045d19755bf0e262171c30055ad585d76ef66d369a5d39c2aa8ad3a75c0a"
+hash = "55d6a44f7446e3382d774fedbb268bb168c0b4490b088985752b9e62160a27fd"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "d98762ee8b7500968e0278b2c35001e1d6e2e71b6238404eb6f7e2b9e3ad9381"
+hash = "27d11ad8e1af6b3bd14c04cd1e7b2caf6cfd616d95cc102622cd58a038414b26"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "aa1f85970e044a048cd2a58575c9a1fc524f45bb46c7bce5e1b34e37e616d4ed"
+hash = "5337e351b205e4191bd16d5ca17463f763f5161cbbdc14c066dcbf15e7e10448"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2f510e4a240a1c0f8d43ef1c7e78e04454a487fcdd30044bc3caeea162075050"
+hash = "30e5c2704a18346dc49edf8f8d32436700a7be603455cde90f30c0c3897ad95d"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolibbetterfps.pw.toml"
-hash = "2c8d3cac0f35806032f50daf8d586d1ce5d1e8d1dd484b7f6d83786ae33d9f96"
+hash = "2c0dce1331ccb91cd44dd893d4c3cecc012c996f7e940591db26120bbc74aa68"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
-hash = "761bac9783cc85cc591333ebddb5c8acbab374363f2ec497cca5a9c389efe928"
+hash = "4c1841e581f13a30bb39932b891c64f5e3c6ef9133c9faca1332c19dc68a1c55"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "acb7a6e1468a33c289a40465f94017a8b539dcc22a22f540058b6cb604ffa6ec"
+hash = "8b9e64e7af42fb73f70357ac2ad4267d9978ff8246f38021c7416197ae1548bf"
 metafile = true
 
 [[files]]
@@ -1394,12 +1394,12 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft-compat.pw.toml"
-hash = "63d5ef9d5a3fb1ddc1f8950f1129c7c9aa02b0d908bacd142f7ab612b0fab8f5"
+hash = "af143901b735254efd2f3761c730d03ea5a133ce95ec18758e439652b0f7aa11"
 metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
-hash = "b71b3e662891d59ddfd9fd9c7168b3429e22915f778ecffd42d6554d23d2080f"
+hash = "5e10ab8218e593505d005f3d8242e40002a8f59a752e1750720142e7081284bc"
 metafile = true
 
 [[files]]
