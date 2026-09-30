@@ -21,6 +21,10 @@ file = "config/defaultoptions/extra/config/enhancedcelestials2core/translations.
 hash = "0181e8e9702984275b05076d3252213aa6fc58cb09bfeffc1cec2694cef6a896"
 
 [[files]]
+file = "config/defaultoptions/extra/config/fowlplay.json5"
+hash = "0a5518d617c7f0f1dd7f8ff531b336a07c15fe79c2dd109034ebad5568ed777e"
+
+[[files]]
 file = "config/defaultoptions/extra/config/hoofprint.toml"
 hash = "3fb24e1eda97d5ef3a5c1948cf40bea377b341555c42d1616c16f1c820f36b8e"
 
