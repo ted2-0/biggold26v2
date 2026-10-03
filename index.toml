@@ -29,26 +29,6 @@ file = "config/defaultoptions/extra/config/hoofprint.toml"
 hash = "3fb24e1eda97d5ef3a5c1948cf40bea377b341555c42d1616c16f1c820f36b8e"
 
 [[files]]
-file = "config/defaultoptions/extra/config/jade/hide-blocks.json"
-hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
-
-[[files]]
-file = "config/defaultoptions/extra/config/jade/hide-entities.json"
-hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
-
-[[files]]
-file = "config/defaultoptions/extra/config/jade/jade.json"
-hash = "08b76a740a948a78f56cbd9daf8af9cf0f421c51e8a1c0e3a971cd0e04bcbeae"
-
-[[files]]
-file = "config/defaultoptions/extra/config/jade/plugins.json"
-hash = "93d043da3804451d92053e684adf4302554d76a94de434832ae5b9a568b4bf73"
-
-[[files]]
-file = "config/defaultoptions/extra/config/jade/sort-order.json"
-hash = "bcf39bc78db6188b1c74b7cf835f7119062c1027f249182cd5e832a4aea7c7c4"
-
-[[files]]
 file = "config/defaultoptions/extra/config/netherexp-startup.toml"
 hash = "fe9a95277ae8f4211c33b32a3db15e6962286402d1e11a3ecdb8cccb8b67578c"
 
@@ -69,20 +49,24 @@ file = "config/defaultoptions/extra/config/zombieawareness/ClientConfig.toml"
 hash = "65e585523831b0f28598b37ab39bde4023c768bb867dfe7d38d644d54318713f"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "3c4e460c45c46da9a9d7dd7a82f55f4ab018c4df1c45fd239af165442c57876b"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "889afad15aa35ee5b0debb7dadb71e76ed235b10400c9b64eb5d397b5e96566b"
+hash = "ecaa21aa59d454533823bdff88d6ea8ed1f0cd84940e9a95afd6783c3866a3a5"
 
 [[files]]
 file = "config/fancymenu/assets/banana.jpg"
 hash = "868c72826da68b2a94e11e050c0ca487a1a0c44d29d52a895985782e193454b8"
 
 [[files]]
-file = "config/fancymenu/assets/biggold.png"
-hash = "eb277a7ac96827d198a9d8d3cf41726b751f64f1dda1005173869d458302b1bd"
-
-[[files]]
 file = "config/fancymenu/assets/flim.wav"
 hash = "3a070862f9afd844742e3744456d8d88faf72cbdae6eab4fced5c09cdd324fc0"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "756f058f9f0ef48899dfcc668c2eb5ea3e8813e5e82fd90e7e2cf5a0f06025e3"
 
 [[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
@@ -102,11 +86,11 @@ hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
 
 [[files]]
 file = "config/fancymenu/customization/biggold26/title_screen_layout.txt"
-hash = "d021816b33d640b816da6b8f1e4460fe5f9f2c018a438d551d5290a27d45c8f5"
+hash = "f32e4fff1397dd38cd2bb355dfa0d6be04be11cb6f7c26b07faee69e3e123ddf"
 
 [[files]]
 file = "config/fancymenu/customization/universal_banana.txt"
-hash = "728915117ee04e99af42899d0a3773a949d0aea563070c2172f9794a7fce5770"
+hash = "d5c52ad3e0e45c7c7a65a6b010966f7b9c0acef0c586909f82cc4c1651bc27ae"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -122,7 +106,7 @@ hash = "bae3c4ee17f3264cbf5610d0f8d8a83744bcf527f44677d9a87bcb7c083accf0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "3c0cb08fec6758c2ed18e602d4158bd35366ca122ee3df6dfd26c74215f394be"
+hash = "2e0b0383b4a1c2da3a33da5503f05e461a41e4606d262a235b62e2525acc084a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
@@ -1231,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "8deb3a3b3a48b97828ee5c58f3c9a2863cbb9b4b5b9ce8e800c253562b208e53"
+hash = "7cf4a26ead5c7608c4e707e4cfca8a717ccbe50a112e19ade1c4aba6004186c3"
 metafile = true
 
 [[files]]
