@@ -9,6 +9,10 @@ file = "config/defaultoptions/extra/config/chloride-client.toml"
 hash = "f40533256c04d254c090188266f97969b1c65d7727f79159e71cea7673bb7c36"
 
 [[files]]
+file = "config/defaultoptions/extra/config/chunksfadein.properties"
+hash = "af1f56a4c604658810a1fde36b606e8280e005fbf659429014a54bc1c3870b25"
+
+[[files]]
 file = "config/defaultoptions/extra/config/enhancedcelestials2core/mixins.properties"
 hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
@@ -35,6 +39,26 @@ hash = "fe9a95277ae8f4211c33b32a3db15e6962286402d1e11a3ecdb8cccb8b67578c"
 [[files]]
 file = "config/defaultoptions/extra/config/pickupnotifier/pickupnotifier-client.toml"
 hash = "8d17ba41dfbe642f2367532d170ffa88f9dafb0601f4e7f492bcd3075442f4fa"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/blocks.toml"
+hash = "0ee1efbbd94b6bcd0e89fbea90c29947fb7039004741af951bf40594f8649e3d"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/entities.toml"
+hash = "3e9788b1039b29c004d3b9b67b36213cdab0dbc8bb6a00952a9c8bcb8eef42ec"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/environment.toml"
+hash = "55508eb928834d52f9f6ef564f0e927b562b6c7965c17779af07545a94f33174"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/general.toml"
+hash = "d44b8980a4de1c8c804b469b1bbc1251c3cf384b1a29aee5042fd0c0edb55ae1"
+
+[[files]]
+file = "config/defaultoptions/extra/config/subtle_effects/items.toml"
+hash = "0955be893f8ba0a742ad4966dbe21e794e69c7b4235b63923dc9839865effdab"
 
 [[files]]
 file = "config/defaultoptions/extra/config/terralith.json"
@@ -86,7 +110,7 @@ hash = "1af3f085b1ee5e75b5d83d3cf220149e700e3ce3de3d3d787d231f9d736a0b4f"
 
 [[files]]
 file = "config/fancymenu/customization/biggold26/title_screen_layout.txt"
-hash = "f32e4fff1397dd38cd2bb355dfa0d6be04be11cb6f7c26b07faee69e3e123ddf"
+hash = "8d779d7ec07d931db23697805d42cc32ff4b5a9c01b8551d6317c680ba2404cb"
 
 [[files]]
 file = "config/fancymenu/customization/universal_banana.txt"
@@ -290,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "9a9923b0301d516f82d6c3f8d2addf1eba4e66b06a76bd440711f7047c92c4d0"
+hash = "fc739b55b128b91b178202ffe2d59e6d7985d7b920fe7c89082ffb7af36abca7"
 metafile = true
 
 [[files]]
@@ -445,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4d089beef8ec605bb3b87abfd8a66bed7eb4d64a0e4129d49a2706717fb94cfa"
+hash = "652adef76c32174aedd6daf665dff64dcaeb946ab623567c1beba3ccf8e49552"
 metafile = true
 
 [[files]]
@@ -540,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1252ca7f1825f3d754fb3de21e4349033f61135d6f2cfaf8b0e07242079a52e8"
+hash = "666f198ed2645a0b2b9bfd379bdfad531c501a067a2feb03d9388116f3c6f6b1"
 metafile = true
 
 [[files]]
@@ -829,6 +853,11 @@ hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "9d979373cbe241f781d50fcf9e41bb84576760bbe050d9d8a89f451e0ff7a615"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
 metafile = true
@@ -1005,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "246941b4fc356584f89995ef6852593797e1360ec52c6bd4c09da1802887e895"
+hash = "cb71d5354e2173d660c77d602fb1f8c75fcf88d1049f7e87a8bedf7aca6409fe"
 metafile = true
 
 [[files]]
@@ -1136,6 +1165,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "5cac8f28b628730c4281d5a989b17314186b9099bc96e7b1637d05970db6e7ef"
 metafile = true
 
 [[files]]

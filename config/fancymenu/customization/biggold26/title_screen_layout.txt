@@ -345,7 +345,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = 0da6a28d-daf3-4460-b128-d60835da0649-1788486991648
-  [executable_action_instance:e058169f-293f-49a4-80f1-16f1e3ad4287-1788487072773][action_type:joinserver] = 192.168.50.45:25565
+  [executable_action_instance:e058169f-293f-49a4-80f1-16f1e3ad4287-1788487072773][action_type:joinserver] = biggold.duckdns.org:25565
   [executable_block:0da6a28d-daf3-4460-b128-d60835da0649-1788486991648][type:generic] = [executables:e058169f-293f-49a4-80f1-16f1e3ad4287-1788487072773;]
   underline_label_on_hover = false
   transparent_background = false

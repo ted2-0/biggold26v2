@@ -15,4 +15,4 @@ version = "XmAhOrYE"
 [option]
 optional = true
 description = "Broken with DH for now"
-default = false
+default = true

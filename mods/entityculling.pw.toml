@@ -11,8 +11,3 @@ hash = "dbb40066796ea54bfe902251ccbe743770e3fa9da555fa762da56b3f0427d4a24d3790a8
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "8w8FfUPs"
-
-[option]
-optional = true
-description = "Disable if you're having issues"
-default = true
