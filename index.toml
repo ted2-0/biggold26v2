@@ -1398,6 +1398,11 @@ hash = "dd1c16cefb9a8f5f3f529c370702dbd86184e571aa89e75da77a9fbb03416e5c"
 metafile = true
 
 [[files]]
+file = "mods/wildex-bestiary.pw.toml"
+hash = "100accd1ac05547f4a7ae10cc36328f4b7af9cc9b132f13890a68c8f0339c16e"
+metafile = true
+
+[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "74d696169d84d7893843d322cb8062415e2903603da43128ea665205ff27482f"
 metafile = true
