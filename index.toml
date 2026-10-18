@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "0409638e3c2b78d3da455663f279684ecb5172df9797cdfc58782c2a7ff90b0b"
+hash = "7700a69fe2819edccf6911e928d64c4718ad100ac81f4e8a18de3d644218f259"
 metafile = true
 
 [[files]]
@@ -642,21 +642,6 @@ hash = "549e72a053da13a50404bd0901b75ce25c6045e778d5a89afcf58e9b5e1945f5"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
-hash = "bbbbce815fee9757a1119cdb3e59ef7ec5562319412c62d2004a251c9ae34074"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
-hash = "359fa7c50935dd5eb8e629c47ef5c86ee7cd183dd40cf3650ac9efe9ff7ce854"
-metafile = true
-
-[[files]]
-file = "mods/friends-and-foes-forge.pw.toml"
-hash = "3e3f571c6895e35244fb2b5dd400398a119e86d0ca85bce330533accfee3ea37"
-metafile = true
-
-[[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "bd54b25ed6127a176979f89d56ebee73856ff5023c575232ee707571fcdb2c1c"
 metafile = true
@@ -718,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic-starcatcher-compatibility.pw.toml"
-hash = "a4cbb2b5c69d2c29b2a6950994fa1bcb5505c47a6c793f6237d8525fa09fea51"
+hash = "9dcf4b44fbf40648daf2ae645d6d4890da3417069afa304d20389e4f2a5fe226"
 metafile = true
 
 [[files]]
@@ -768,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c4a7da01fd934c427281cf304872e4bbc3642e61751e1e3b558547733fc2ca12"
+hash = "a5ccde1377f52f66789abb41796df94ad20b858be9ec3a7aa7608de2e15849fa"
 metafile = true
 
 [[files]]
@@ -1182,11 +1167,6 @@ hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
 metafile = true
 
 [[files]]
-file = "mods/sleeping-bags.pw.toml"
-hash = "9de3675bdd0908ab4220da1b20343e2beed5b35805dd30fcc1ad84b14bf72398"
-metafile = true
-
-[[files]]
 file = "mods/smart-particles.pw.toml"
 hash = "0f82e862a971257ab4bdb5e1603d847095e5602b4bdb3755e81dc68d25731a51"
 metafile = true
@@ -1348,7 +1328,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "2ed8143d74813a492685aa18210835862a6bd70789e6a0301ceb270174b51460"
+hash = "d32ac0e086914a3b5dd373c1a677b162023957f32984ed6b30623ab7b42609ff"
 metafile = true
 
 [[files]]
