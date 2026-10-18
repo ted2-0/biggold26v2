@@ -65,6 +65,10 @@ file = "config/defaultoptions/extra/config/terralith.json"
 hash = "7dced0f1a0a6eb20c4fc5a5d25d6bd1742f8cb3eeae32474793a0935622a2a1f"
 
 [[files]]
+file = "config/defaultoptions/extra/config/wildex/wildex-client.toml"
+hash = "b8b7066c59a3824522183b3d3f8d8a134b332c79e3d360cd1408762c23f90170"
+
+[[files]]
 file = "config/defaultoptions/extra/config/wover/client.json"
 hash = "aa470706090f3abb3f3277fb386111768263dfb8441f59fda27ded29c00e9c05"
 
